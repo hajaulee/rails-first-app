@@ -1,2 +1,2 @@
 # rails-first-app
-Small website screated by Ruby on Rails
+Small website created by Ruby on Rails
